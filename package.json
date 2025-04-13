@@ -2,7 +2,7 @@
   "dependencies": {
     "body-parser": "^1.20.0",
     "dotenv": "^16.0.1",
-    "ejs": "github:caliphdev/ejs",
+    "ejs": "mde/ejs",
     "express": "^4.18.1",
     "morgan": "^1.10.0",
     "util": "^0.12.4",
